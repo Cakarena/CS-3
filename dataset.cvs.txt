@@ -1,0 +1,45 @@
+MEASURE	Measure	INDEX	Index	FREQUENCY	Frequency	TIME	Time	Value	Flag Codes	Flags
+2	Percentage change from previous period	6011001	All groups	Q	Quarterly	2017-Q2	Jun-17	-0.1		
+2	Percentage change from previous period	6013001	0 Food and live animals	Q	Quarterly	2017-Q2	Jun-17	0.8		
+2	Percentage change from previous period	6013002	1 Beverages and tobacco	Q	Quarterly	2017-Q2	Jun-17	-3.6		
+2	Percentage change from previous period	6013003	"2 Crude materials, inedible, except fuels"	Q	Quarterly	2017-Q2	Jun-17	-2.9		
+2	Percentage change from previous period	6013004	"3 Mineral fuels, lubricants and related materials"	Q	Quarterly	2017-Q2	Jun-17	-4.8		
+2	Percentage change from previous period	6013005	"4 Animal and vegetable oils, fats and waxes"	Q	Quarterly	2017-Q2	Jun-17	1.9		
+2	Percentage change from previous period	6013006	"5 Chemicals and related products, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	1.7		
+2	Percentage change from previous period	6013007	6 Manufactured goods classified chiefly by material	Q	Quarterly	2017-Q2	Jun-17	1.9		
+2	Percentage change from previous period	6013008	7 Machinery and transport equipment	Q	Quarterly	2017-Q2	Jun-17	-0.3		
+2	Percentage change from previous period	6013009	8 Miscellaneous manufactured articles	Q	Quarterly	2017-Q2	Jun-17	1		
+2	Percentage change from previous period	6013010	"9 Commodities and transactions, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	4.2		
+3	Percentage change from corresponding quarter of previous year	6011001	All groups	Q	Quarterly	2017-Q2	Jun-17	0.3		
+3	Percentage change from corresponding quarter of previous year	6013001	0 Food and live animals	Q	Quarterly	2017-Q2	Jun-17	2.1		
+3	Percentage change from corresponding quarter of previous year	6013002	1 Beverages and tobacco	Q	Quarterly	2017-Q2	Jun-17	-3.9		
+3	Percentage change from corresponding quarter of previous year	6013003	"2 Crude materials, inedible, except fuels"	Q	Quarterly	2017-Q2	Jun-17	12.3		
+3	Percentage change from corresponding quarter of previous year	6013004	"3 Mineral fuels, lubricants and related materials"	Q	Quarterly	2017-Q2	Jun-17	13.9		
+3	Percentage change from corresponding quarter of previous year	6013005	"4 Animal and vegetable oils, fats and waxes"	Q	Quarterly	2017-Q2	Jun-17	15.9		
+3	Percentage change from corresponding quarter of previous year	6013006	"5 Chemicals and related products, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	2.1		
+3	Percentage change from corresponding quarter of previous year	6013007	6 Manufactured goods classified chiefly by material	Q	Quarterly	2017-Q2	Jun-17	0.6		
+3	Percentage change from corresponding quarter of previous year	6013008	7 Machinery and transport equipment	Q	Quarterly	2017-Q2	Jun-17	-3.1		
+3	Percentage change from corresponding quarter of previous year	6013009	8 Miscellaneous manufactured articles	Q	Quarterly	2017-Q2	Jun-17	-2.2		
+3	Percentage change from corresponding quarter of previous year	6013010	"9 Commodities and transactions, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	-0.8		
+4	Contribution to all groups index	6011001	All groups	Q	Quarterly	2017-Q2	Jun-17	103.8		
+4	Contribution to all groups index	6013001	0 Food and live animals	Q	Quarterly	2017-Q2	Jun-17	5.63		
+4	Contribution to all groups index	6013002	1 Beverages and tobacco	Q	Quarterly	2017-Q2	Jun-17	1.32		
+4	Contribution to all groups index	6013003	"2 Crude materials, inedible, except fuels"	Q	Quarterly	2017-Q2	Jun-17	1.45		
+4	Contribution to all groups index	6013004	"3 Mineral fuels, lubricants and related materials"	Q	Quarterly	2017-Q2	Jun-17	11.61		
+4	Contribution to all groups index	6013005	"4 Animal and vegetable oils, fats and waxes"	Q	Quarterly	2017-Q2	Jun-17	0.33		
+4	Contribution to all groups index	6013006	"5 Chemicals and related products, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	11.15		
+4	Contribution to all groups index	6013007	6 Manufactured goods classified chiefly by material	Q	Quarterly	2017-Q2	Jun-17	12.27		
+4	Contribution to all groups index	6013008	7 Machinery and transport equipment	Q	Quarterly	2017-Q2	Jun-17	42.46		
+4	Contribution to all groups index	6013009	8 Miscellaneous manufactured articles	Q	Quarterly	2017-Q2	Jun-17	15.46		
+4	Contribution to all groups index	6013010	"9 Commodities and transactions, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	2.14		
+5	Change in points contribution	6011001	All groups	Q	Quarterly	2017-Q2	Jun-17	-0.1		
+5	Change in points contribution	6013001	0 Food and live animals	Q	Quarterly	2017-Q2	Jun-17	0.04		
+5	Change in points contribution	6013002	1 Beverages and tobacco	Q	Quarterly	2017-Q2	Jun-17	-0.05		
+5	Change in points contribution	6013003	"2 Crude materials, inedible, except fuels"	Q	Quarterly	2017-Q2	Jun-17	-0.04		
+5	Change in points contribution	6013004	"3 Mineral fuels, lubricants and related materials"	Q	Quarterly	2017-Q2	Jun-17	-0.58		
+5	Change in points contribution	6013005	"4 Animal and vegetable oils, fats and waxes"	Q	Quarterly	2017-Q2	Jun-17	0.01		
+5	Change in points contribution	6013006	"5 Chemicals and related products, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	0.19		
+5	Change in points contribution	6013007	6 Manufactured goods classified chiefly by material	Q	Quarterly	2017-Q2	Jun-17	0.22		
+5	Change in points contribution	6013008	7 Machinery and transport equipment	Q	Quarterly	2017-Q2	Jun-17	-0.11		
+5	Change in points contribution	6013009	8 Miscellaneous manufactured articles	Q	Quarterly	2017-Q2	Jun-17	0.16		
+5	Change in points contribution	6013010	"9 Commodities and transactions, n.e.s."	Q	Quarterly	2017-Q2	Jun-17	0.09		
