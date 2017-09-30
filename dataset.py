@@ -22,4 +22,4 @@ line1 = "This is a Checkpoint 3, exercise 6 thingo"
 fhand.write(line1)
 fhand.close()
 
-## Change of dataset.txt became this https://www.screencast.com/t/5JIZ9957rbw 
+## Change of dataset.txt became this https://www.screencast.com/t/5JIZ9957rbw see dataset.cvs.txt in this respository for original appearance.
