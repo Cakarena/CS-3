@@ -10,8 +10,8 @@ def first_two(str):
 first_two('Hello')
 first_two('abcdefg')
 first_two('ab')
-first_two('a ') ##only way I can make this appear is putting in a space
-first_two('  ') ## have to create two spaces to be recognised
+first_two('a') 
+first_two('')
 first_two('kitten')
 first_two('hi')
 first_two('hiya')
